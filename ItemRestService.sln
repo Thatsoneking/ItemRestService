@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemRestService", "ItemRestService\ItemRestService.csproj", "{CD7E89B7-BD23-4D0D-B184-9001AA439BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemRestService", "ItemRestService\ItemRestService.csproj", "{CD7E89B7-BD23-4D0D-B184-9001AA439BE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemLibrary", "ItemLibrary\ItemLibrary.csproj", "{06C87348-6C8E-4EF5-91E3-3A321D3E9E58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CD7E89B7-BD23-4D0D-B184-9001AA439BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7E89B7-BD23-4D0D-B184-9001AA439BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7E89B7-BD23-4D0D-B184-9001AA439BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C87348-6C8E-4EF5-91E3-3A321D3E9E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C87348-6C8E-4EF5-91E3-3A321D3E9E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C87348-6C8E-4EF5-91E3-3A321D3E9E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C87348-6C8E-4EF5-91E3-3A321D3E9E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
